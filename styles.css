@@ -81,3 +81,35 @@ a {
     border: none;
     border-radius: 6px;
 }
+
+.random-info {
+    margin-bottom: 100px;
+}
+
+.random-info h2 {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    margin: 36px 0;
+}
+
+.random-info .boxes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.random-info .box {
+    width: 150px;
+    text-align: center;
+    color: #2e3947;;
+}
+
+.random-info .square {
+    border: 3px solid #3882F6;
+    border-radius: 12px;
+    height: 150px;
+    width: 150px;
+    margin-bottom: 6px;
+}
