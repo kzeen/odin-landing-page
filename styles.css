@@ -157,3 +157,9 @@ a {
     border: 2px solid #E5E7EB;
     flex-basis: auto;
 }
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
+    padding: 35px 0;
+}
