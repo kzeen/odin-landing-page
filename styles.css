@@ -113,3 +113,23 @@ a {
     width: 150px;
     margin-bottom: 6px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+
+.quote .quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote .signature {
+    text-align: end;
+}
+
+.quote p {
+    width: 80%;
+    margin: 0 auto;
+}
